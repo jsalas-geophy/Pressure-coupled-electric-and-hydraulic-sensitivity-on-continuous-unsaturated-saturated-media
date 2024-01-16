@@ -1,0 +1,4 @@
+../ModeloSinteticoNF/ArchivosSalidaHP/                       
+../ModeloSinteticoNF/ArchivosSalidaEL/                      
+../ModeloSinteticoNF/Eval_PHI/                                 
+../ModeloSinteticoNF/Mod_ini/                                

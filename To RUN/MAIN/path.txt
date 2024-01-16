@@ -1,0 +1,12 @@
+!Path where you find the programs to calculate direct and adjoint models
+../MD_HID_Direct
+../MD_ELEC_Dir_ADJ
+../MD_HID_Dir_ADJ  !!MD_HID_Dir_ADJ_E
+!!Path where you find the programs to calculate data sensitivity to saturated electrical and hydraulic parameters
+../DV_perm
+../DV_elec
+!path where it finds the input files
+../ModeloSinteticoNF/Mod_ini/Mod_ini_Hid/
+../ModeloSinteticoNF/Mod_ini/Mod_ini_Elc/
+../ModeloSinteticoNF/Eval_PHI/
+../ModeloSinteticoNF/Mod_ini/
